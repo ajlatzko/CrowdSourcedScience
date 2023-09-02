@@ -1,10 +1,10 @@
 {
-    "NAME":"Crowd Sourced Science",
-    "URL":"https://raw.githubusercontent.com/DuoDex/CrowdSourcedScience/master/GameData/CrowdSourcedScience/CrowdSourcedScience.version",
-    "DOWNLOAD":"https://github.com/DuoDex/CrowdSourcedScience/releases",
+    "NAME":"Crowd Sourced Science Renewed",
+    "URL":"https://raw.githubusercontent.com/ajlatzko/CrowdSourcedScience/master/GameData/CrowdSourcedScience/CrowdSourcedScience.version",
+    "DOWNLOAD":"https://github.com/ajlatzko/CrowdSourcedScience",
     "GITHUB":
     {
-        "USERNAME":"DuoDex",
+        "USERNAME":"ajlatzko",
         "REPOSITORY":"CrowdSourcedScience",
         "ALLOW_PRE_RELEASE":false
     },
@@ -18,8 +18,8 @@
     "KSP_VERSION":
     {
         "MAJOR":1,
-        "MINOR":8,
-        "PATCH":1
+        "MINOR":12,
+        "PATCH":5
     },
     "KSP_VERSION_MIN":
     {
